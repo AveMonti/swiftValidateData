@@ -1,5 +1,6 @@
 ## swift validate data
 
+
 In Swift playground you can find:
 * validate password
 * validate adress email
